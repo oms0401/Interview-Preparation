@@ -1,6 +1,6 @@
 # AI Engineer Interview Preparation Roadmap 🚀
 
-**First the material in the GEN-AI Folder than visit this material for futher knowledge and improvement upon the interview skills**
+**First review the material in the GEN-AI Folder than visit this material for futher knowledge and improvement upon the interview skills**
 
 A curated collection of "hard mode" study materials for Senior AI Engineer interviews. This repository focuses on **RAG, Agents, LangGraph, Model Context Protocol (MCP), and LLM System Design**.
 
