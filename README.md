@@ -77,5 +77,10 @@ A curated collection of "hard mode" study materials for Senior AI Engineer inter
 * **[Machine Learning Interviews (GitHub)](https://github.com/alirezadir/machine-learning-interviews)**
     * **Focus:** The "System Design Template" (7-step framework for answering design questions).
 
+## 7. HR round Question Banks
+* **[BEHAVIOURAL QUESTIONS  (GitHub)](https://maang.in/courses/HR-Interview-Resources-149?tab=chapters)**
+
+*Actual questions asked by hiring managers.*
+
 ---
 *Created for personal study and reference.*
